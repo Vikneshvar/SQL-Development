@@ -5,6 +5,7 @@ permission. All the concepts of SQL server have been made use of in this project
 maximum efficiency. 
 
 A brief description about each concept used:
+
 Stored procedure:
  - WorkHoursAndEEOCTracking – To calculate the regular hours and overtime
 hours to keep track of the project’s EEOC requirement.
